@@ -1,2 +1,5 @@
 # Simple-Speech-Generator
-simple speech generator using basic numpy
+## A Simple speech generator using basic numpy 
+
+Uses random compilation of words spoken during a course of multiple speeches to train 
+
